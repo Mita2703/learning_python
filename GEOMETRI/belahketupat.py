@@ -11,3 +11,8 @@ keliling = 4 * s
 
 print("Luas\t\t  : ", luas)
 print("KEliling\t  : ", keliling)
+
+
+
+
+
