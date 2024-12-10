@@ -14,3 +14,4 @@ def belah_ketupat () :
 
 belah_ketupat()
 belah_ketupat()
+
